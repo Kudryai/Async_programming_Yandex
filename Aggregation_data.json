@@ -1,0 +1,422 @@
+[
+ {
+  "average rainless hours for all days": 2.3,
+  "average temp for all days": 14.3,
+  "city": "Москва",
+  "days": [
+   {
+    "averange temperature per day": 17.7,
+    "date": "2022-05-26",
+    "rainless hours": 7
+   },
+   {
+    "averange temperature per day": 13.1,
+    "date": "2022-05-27",
+    "rainless hours": 0
+   },
+   {
+    "averange temperature per day": 12.2,
+    "date": "2022-05-28",
+    "rainless hours": 0
+   },
+   {
+    "date": "2022-05-29"
+   },
+   {
+    "date": "2022-05-30"
+   }
+  ]
+ },
+ {
+  "average rainless hours for all days": 10.3,
+  "average temp for all days": 17.3,
+  "city": "Париж",
+  "days": [
+   {
+    "averange temperature per day": 17.6,
+    "date": "2022-05-26",
+    "rainless hours": 9
+   },
+   {
+    "averange temperature per day": 17.4,
+    "date": "2022-05-27",
+    "rainless hours": 11
+   },
+   {
+    "averange temperature per day": 17.0,
+    "date": "2022-05-28",
+    "rainless hours": 11
+   },
+   {
+    "date": "2022-05-29"
+   },
+   {
+    "date": "2022-05-30"
+   }
+  ]
+ },
+ {
+  "average rainless hours for all days": 11.0,
+  "average temp for all days": 16.1,
+  "city": "Лондон",
+  "days": [
+   {
+    "averange temperature per day": 17.4,
+    "date": "2022-05-26",
+    "rainless hours": 11
+   },
+   {
+    "averange temperature per day": 16.3,
+    "date": "2022-05-27",
+    "rainless hours": 11
+   },
+   {
+    "averange temperature per day": 14.6,
+    "date": "2022-05-28",
+    "rainless hours": 11
+   },
+   {
+    "date": "2022-05-29"
+   },
+   {
+    "date": "2022-05-30"
+   }
+  ]
+ },
+ {
+  "average rainless hours for all days": 5.0,
+  "average temp for all days": 16.3,
+  "city": "Берлин",
+  "days": [
+   {
+    "averange temperature per day": 19.3,
+    "date": "2022-05-26",
+    "rainless hours": 9
+   },
+   {
+    "averange temperature per day": 16.0,
+    "date": "2022-05-27",
+    "rainless hours": 6
+   },
+   {
+    "averange temperature per day": 13.6,
+    "date": "2022-05-28",
+    "rainless hours": 0
+   },
+   {
+    "date": "2022-05-29"
+   },
+   {
+    "date": "2022-05-30"
+   }
+  ]
+ },
+ {
+  "average rainless hours for all days": 11.0,
+  "average temp for all days": 32.8,
+  "city": "Пекин",
+  "days": [
+   {
+    "averange temperature per day": 31.8,
+    "date": "2022-05-26",
+    "rainless hours": 11
+   },
+   {
+    "averange temperature per day": 32.7,
+    "date": "2022-05-27",
+    "rainless hours": 11
+   },
+   {
+    "averange temperature per day": 33.8,
+    "date": "2022-05-28",
+    "rainless hours": 11
+   },
+   {
+    "date": "2022-05-29"
+   },
+   {
+    "date": "2022-05-30"
+   }
+  ]
+ },
+ {
+  "average rainless hours for all days": 3.0,
+  "average temp for all days": 13.6,
+  "city": "Казань",
+  "days": [
+   {
+    "averange temperature per day": 12.5,
+    "date": "2022-05-26",
+    "rainless hours": 6
+   },
+   {
+    "averange temperature per day": 13.7,
+    "date": "2022-05-27",
+    "rainless hours": 0
+   },
+   {
+    "averange temperature per day": 14.7,
+    "date": "2022-05-28",
+    "rainless hours": 3
+   },
+   {
+    "date": "2022-05-29"
+   },
+   {
+    "date": "2022-05-30"
+   }
+  ]
+ },
+ {
+  "average rainless hours for all days": 1.0,
+  "average temp for all days": 11.9,
+  "city": "Санкт-Петербург",
+  "days": [
+   {
+    "averange temperature per day": 12.2,
+    "date": "2022-05-26",
+    "rainless hours": 3
+   },
+   {
+    "averange temperature per day": 11.8,
+    "date": "2022-05-27",
+    "rainless hours": 0
+   },
+   {
+    "averange temperature per day": 11.6,
+    "date": "2022-05-28",
+    "rainless hours": 0
+   },
+   {
+    "date": "2022-05-29"
+   },
+   {
+    "date": "2022-05-30"
+   }
+  ]
+ },
+ {
+  "average rainless hours for all days": 11.0,
+  "average temp for all days": 23.2,
+  "city": "Волгоград",
+  "days": [
+   {
+    "averange temperature per day": 22.1,
+    "date": "2022-05-26",
+    "rainless hours": 11
+   },
+   {
+    "averange temperature per day": 21.9,
+    "date": "2022-05-27",
+    "rainless hours": 11
+   },
+   {
+    "averange temperature per day": 25.6,
+    "date": "2022-05-28",
+    "rainless hours": 11
+   },
+   {
+    "date": "2022-05-29"
+   },
+   {
+    "date": "2022-05-30"
+   }
+  ]
+ },
+ {
+  "average rainless hours for all days": 11.0,
+  "average temp for all days": 23.6,
+  "city": "Новосибирск",
+  "days": [
+   {
+    "averange temperature per day": 24.9,
+    "date": "2022-05-26",
+    "rainless hours": 11
+   },
+   {
+    "averange temperature per day": 22.5,
+    "date": "2022-05-27",
+    "rainless hours": 11
+   },
+   {
+    "averange temperature per day": 23.3,
+    "date": "2022-05-28",
+    "rainless hours": 11
+   },
+   {
+    "date": "2022-05-29"
+   },
+   {
+    "date": "2022-05-30"
+   }
+  ]
+ },
+ {
+  "average rainless hours for all days": 4.0,
+  "average temp for all days": 13.3,
+  "city": "Калининград",
+  "days": [
+   {
+    "averange temperature per day": 15.4,
+    "date": "2022-05-26",
+    "rainless hours": 9
+   },
+   {
+    "averange temperature per day": 12.8,
+    "date": "2022-05-27",
+    "rainless hours": 2
+   },
+   {
+    "averange temperature per day": 11.6,
+    "date": "2022-05-28",
+    "rainless hours": 1
+   },
+   {
+    "date": "2022-05-29"
+   },
+   {
+    "date": "2022-05-30"
+   }
+  ]
+ },
+ {
+  "average rainless hours for all days": 11.0,
+  "average temp for all days": 34.4,
+  "city": "Абу-Даби",
+  "days": [
+   {
+    "averange temperature per day": 34.8,
+    "date": "2022-05-26",
+    "rainless hours": 11
+   },
+   {
+    "averange temperature per day": 34.5,
+    "date": "2022-05-27",
+    "rainless hours": 11
+   },
+   {
+    "averange temperature per day": 33.8,
+    "date": "2022-05-28",
+    "rainless hours": 11
+   },
+   {
+    "date": "2022-05-29"
+   },
+   {
+    "date": "2022-05-30"
+   }
+  ]
+ },
+ {
+  "average rainless hours for all days": 4.7,
+  "average temp for all days": 15.5,
+  "city": "Варшава",
+  "days": [
+   {
+    "averange temperature per day": 19.6,
+    "date": "2022-05-26",
+    "rainless hours": 11
+   },
+   {
+    "averange temperature per day": 14.0,
+    "date": "2022-05-27",
+    "rainless hours": 3
+   },
+   {
+    "averange temperature per day": 12.8,
+    "date": "2022-05-28",
+    "rainless hours": 0
+   },
+   {
+    "date": "2022-05-29"
+   },
+   {
+    "date": "2022-05-30"
+   }
+  ]
+ },
+ {
+  "average rainless hours for all days": 11.0,
+  "average temp for all days": 27.1,
+  "city": "Бухарест",
+  "days": [
+   {
+    "averange temperature per day": 27.5,
+    "date": "2022-05-26",
+    "rainless hours": 11
+   },
+   {
+    "averange temperature per day": 26.1,
+    "date": "2022-05-27",
+    "rainless hours": 11
+   },
+   {
+    "averange temperature per day": 27.8,
+    "date": "2022-05-28",
+    "rainless hours": 11
+   },
+   {
+    "date": "2022-05-29"
+   },
+   {
+    "date": "2022-05-30"
+   }
+  ]
+ },
+ {
+  "average rainless hours for all days": 11.0,
+  "average temp for all days": 27.9,
+  "city": "Рим",
+  "days": [
+   {
+    "averange temperature per day": 29.0,
+    "date": "2022-05-26",
+    "rainless hours": 11
+   },
+   {
+    "averange temperature per day": 29.3,
+    "date": "2022-05-27",
+    "rainless hours": 11
+   },
+   {
+    "averange temperature per day": 25.5,
+    "date": "2022-05-28",
+    "rainless hours": 11
+   },
+   {
+    "date": "2022-05-29"
+   },
+   {
+    "date": "2022-05-30"
+   }
+  ]
+ },
+ {
+  "average rainless hours for all days": 11.0,
+  "average temp for all days": 33.4,
+  "city": "Каир",
+  "days": [
+   {
+    "averange temperature per day": 32.5,
+    "date": "2022-05-26",
+    "rainless hours": 11
+   },
+   {
+    "averange temperature per day": 33.2,
+    "date": "2022-05-27",
+    "rainless hours": 11
+   },
+   {
+    "averange temperature per day": 34.5,
+    "date": "2022-05-28",
+    "rainless hours": 11
+   },
+   {
+    "date": "2022-05-29"
+   },
+   {
+    "date": "2022-05-30"
+   }
+  ]
+ }
+]

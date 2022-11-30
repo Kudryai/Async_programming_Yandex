@@ -1,0 +1,92 @@
+[
+ {
+  "average rainless hours for all days": 11.0,
+  "average temp for all days": 34.4,
+  "city": "Абу-Даби",
+  "rating": 1
+ },
+ {
+  "average rainless hours for all days": 11.0,
+  "average temp for all days": 33.4,
+  "city": "Каир",
+  "rating": 2
+ },
+ {
+  "average rainless hours for all days": 11.0,
+  "average temp for all days": 32.8,
+  "city": "Пекин",
+  "rating": 3
+ },
+ {
+  "average rainless hours for all days": 11.0,
+  "average temp for all days": 27.9,
+  "city": "Рим",
+  "rating": 4
+ },
+ {
+  "average rainless hours for all days": 11.0,
+  "average temp for all days": 27.1,
+  "city": "Бухарест",
+  "rating": 5
+ },
+ {
+  "average rainless hours for all days": 11.0,
+  "average temp for all days": 23.6,
+  "city": "Новосибирск",
+  "rating": 6
+ },
+ {
+  "average rainless hours for all days": 11.0,
+  "average temp for all days": 23.2,
+  "city": "Волгоград",
+  "rating": 7
+ },
+ {
+  "average rainless hours for all days": 11.0,
+  "average temp for all days": 16.1,
+  "city": "Лондон",
+  "rating": 8
+ },
+ {
+  "average rainless hours for all days": 10.3,
+  "average temp for all days": 17.3,
+  "city": "Париж",
+  "rating": 9
+ },
+ {
+  "average rainless hours for all days": 5.0,
+  "average temp for all days": 16.3,
+  "city": "Берлин",
+  "rating": 10
+ },
+ {
+  "average rainless hours for all days": 4.7,
+  "average temp for all days": 15.5,
+  "city": "Варшава",
+  "rating": 11
+ },
+ {
+  "average rainless hours for all days": 4.0,
+  "average temp for all days": 13.3,
+  "city": "Калининград",
+  "rating": 12
+ },
+ {
+  "average rainless hours for all days": 3.0,
+  "average temp for all days": 13.6,
+  "city": "Казань",
+  "rating": 13
+ },
+ {
+  "average rainless hours for all days": 2.3,
+  "average temp for all days": 14.3,
+  "city": "Москва",
+  "rating": 14
+ },
+ {
+  "average rainless hours for all days": 1.0,
+  "average temp for all days": 11.9,
+  "city": "Санкт-Петербург",
+  "rating": 15
+ }
+]
